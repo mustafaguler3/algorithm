@@ -13,7 +13,7 @@ public class GreatestCommonDivisor {
                     greatest = i;
                 }
             }
-            System.out.println(greatest);
+            System.out.println("greatest"+greatest);
 
             return 1;
 
