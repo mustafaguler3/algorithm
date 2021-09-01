@@ -4,10 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        LastDigitChecker.hasSameLastDigit(14,15,14);
-        LastDigitChecker.hasSameLastDigit(21,15,14);
-        LastDigitChecker.hasSameLastDigit(14,14,18);
-        LastDigitChecker.hasSameLastDigit(10,10,10);
+        GreatestCommonDivisor.getGreatestCommonDivisor(10,20);
+        GreatestCommonDivisor.getGreatestCommonDivisor(30,20);
+        GreatestCommonDivisor.getGreatestCommonDivisor(80,20);
 
     }
     public static int sumDigits(int number){
